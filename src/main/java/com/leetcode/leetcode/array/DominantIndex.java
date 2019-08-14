@@ -1,4 +1,4 @@
-package com.leetcode.leetcode;
+package com.leetcode.leetcode.array;
 
 /**在一个给定的数组nums中，总是存在一个最大元素 。
 
